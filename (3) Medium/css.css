@@ -1,0 +1,35 @@
+body {
+    background-image: url(Where\'s\ Waldo\ Medium.png);
+    background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+
+input {
+    top: 46%;
+    left: 51%;
+    width:55px;
+    height:57px;
+    position: absolute;
+    background: orange; 
+
+}
+
+
+#mydiv {
+  position: absolute;
+  z-index: 9;
+  background-color: #000000;
+  border: 1px solid #000000;
+  text-align: center;
+  color: white;
+  font-size: large;
+}
+
+#mydivheader {
+  padding: 10px;
+  cursor: move;
+  z-index: 10;
+  background-color: #2196F3;
+  color: #fff;
+}
