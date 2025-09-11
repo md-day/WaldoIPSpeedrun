@@ -1,5 +1,5 @@
 <i><b>Check out my Channel, it would be kinda fire: </b></i> <br />
-https://www.youtube.com/@Mr._Doomsday <br />
+https://www.youtube.com/@Mr._Doomsdays <br />
 
 <i><b>Here are the links to the music used in the website: </b></i> <br />
 Main Menu: https://youtu.be/3zyJZC_HVu4?si=8u1gAv0sa5cQ50Mf <br />
